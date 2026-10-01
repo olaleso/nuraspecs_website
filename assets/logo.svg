@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" role="img" aria-label="NuraSpecs icon">
+<defs><linearGradient id="l" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0768fe"/><stop offset="1" stop-color="#41dcef"/></linearGradient><linearGradient id="d" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#0c297c"/><stop offset="1" stop-color="#0c63df"/></linearGradient></defs>
+<path fill="url(#d)" d="M5 47V12a7 7 0 0 1 11.9-4.9L41 31V8.8L52 4v37.9a7 7 0 0 1-12 4.9L16 22.9V43L5 47Z"/>
+<path fill="url(#l)" d="M5 12a7 7 0 0 1 11.9-4.9L35.2 25 27 34 5 12Zm36 10V8.8L52 4v18L41 32.2V22Z"/>
+</svg>
